@@ -1,0 +1,139 @@
+body{
+   background-color:blue;
+    font-family:Arial,
+   sans-serif;
+   margin:0;
+    background-color:#f2f5
+   f8;
+color:#222;
+}
+Navigation/
+nav{
+background-color:#12355b;
+padding:18px;
+text-align:centre;
+position:sticky;
+top:0;z-index:1000;
+
+}
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+font-weight:bold;
+transition:0.3s;
+}
+nav a:hover{color:#ffd700;
+}
+Home section/
+.home{
+   background:color
+   #12355b;
+   color:white;
+   text-align:center
+
+.home h1{
+   font-size:45px;
+margin:bottom 10px;
+letter-spacing:2px;
+}
+.home h2{
+       font-size: 18px;
+       margin: 8px;
+}
+.home p{
+   font-size:18px;
+   margin:8px;
+}
+
+_ _ _ _PROFILE PHOTO_ _ _ _/.
+.profile-photo{
+   width: 50px;
+   height:50px;
+   border-radius: 50%;
+   object-fit:
+   scover;
+   display:block;
+   margin: 2opx auto;
+   border:5px solid white;
+   box-shadow: 0 5px rgba(0,0,0,0.3);
+}
+General sections/
+section{
+background-color:white;
+width:85%
+900px;margin: 25px
+auto;
+padding: 30px;
+ border-radius: 10px;
+
+}
+
+Headings/
+h2{
+color:#12355b;
+border-bottom:2px;
+padding-bottom: 8px;
+}
+h3{
+color:#12355b;
+}
+
+Lists/
+li{
+margin: 10px;
+}
+footer/
+footer{
+background-color:#12355b;
+color:white;
+text-align:center
+padding  20px;
+
+Mobile phones/
+@Media screen(max-width;600px)
+
+{nav a{
+   display:block;
+   margin:8px;
+
+.home h1{font-size:30px;sss
+
+section{
+width:80%;
+
+#education h3{
+margin-top:25px;
+font-size:20px;
+}
+#education p{
+line-height:1.7;
+margin:8px;
+}
+#skills li{
+backgrOUnd-color:#e8f1f8;
+margin: 10px 0;
+padding: 12px;
+border-left: 5px solid #12355b;
+border-radius: 5px;
+font-weighT:bold;
+
+
+#experience li{
+background-color:#f2f5f8;
+margin:12px 0;
+padding: 15px;
+border-left:5px solid#12355b;
+border-radius:5px;
+line-height: 1.6;
+}
+
+#contact p{
+background-color:#f2f5f8;
+padding:12px;
+margin: 10px;
+border-left:5px solid #12355b;
+border-radius:5px;
+}
+#contact strong{
+   color:#12355b;
